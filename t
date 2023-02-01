@@ -9,6 +9,7 @@ if(A.substring(i,i+B.length()).equals(B)){
         }
         
                
-        return -1;
+       
     }
+    return 1;
 }
